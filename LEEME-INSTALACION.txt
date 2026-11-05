@@ -1,0 +1,46 @@
+ÓRBITA INTEGRAL — TEMA PARA WORDPRESS
+
+INSTALACIÓN
+1. Entra al panel de administración de tu WordPress.
+2. Ve a Apariencia > Temas > Añadir nuevo > Subir tema.
+3. Selecciona orbita-integral-wordpress.zip, sin descomprimir.
+4. Pulsa Instalar ahora y después Activar.
+5. Visita la raíz de tu dominio para ver la portada de Órbita.
+
+La portada está incorporada en front-page.php y se muestra automáticamente.
+No tienes que importar un XML ni crear una página en Elementor.
+Activar este tema cambia el aspecto del sitio completo. Puedes revisar antes
+con Vista previa en vivo o probarlo en una instalación de pruebas.
+Necesitas permisos para instalar temas. Si usas WordPress.com, tu cuenta debe
+permitir la carga de temas personalizados.
+
+QUÉ INCLUYE
+Logo e imágenes locales, diseño adaptable a celulares, las tres líneas de
+servicios, storytelling, misión, visión, valores, metodología, preguntas
+frecuentes, portafolio reservado y contacto.
+WhatsApp: +51 991 229 239
+Correo: orbita.integral.consultoria@gmail.com
+
+CÓMO EDITAR
+Es un tema clásico a medida, con portada programada. Los textos de la portada
+se encuentran en template-parts/landing.php. El contenido de los servicios y
+etapas de la metodología está en assets/app.js. Los estilos están en style.css.
+Las imágenes están en assets/. Los cambios de teléfono y correo deben hacerse
+tanto en landing.php como en app.js, incluidos los enlaces wa.me y mailto.
+La portada no se edita desde el editor de bloques ni desde Elementor.
+Para modificar código, utiliza un tema hijo o conserva una copia del original.
+Las páginas interiores y entradas sí muestran contenido del editor WordPress.
+
+CONTACTO Y PORTAFOLIO
+El formulario prepara el mensaje para WhatsApp o tu aplicación de correo;
+el visitante confirma allí el envío. No guarda consultas en WordPress ni
+realiza envíos automáticos desde el servidor.
+El portafolio mantiene espacios reservados hasta añadir marcas autorizadas.
+Las tipografías DM Sans y Manrope se cargan desde Google Fonts. Si no hay
+conexión se usan fuentes alternativas del sistema.
+
+COMPROBACIÓN ANTES DE USAR EN TU DOMINIO
+Revisa menú móvil, servicios desplegables, etapas y enlaces de contacto.
+Comprueba que las imágenes carguen y envía una consulta de prueba.
+El paquete fue revisado estructuralmente y el JavaScript pasó la comprobación
+de sintaxis. No se ha instalado ni probado en tu servidor WordPress.
